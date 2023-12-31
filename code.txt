@@ -1,0 +1,17 @@
+ //коммент
+int ar.r2[4]; /*коммент*/
+//коммент int ar.r2[4]; 
+/*коммент int ar.r2[4]; */
+int arr3[4;
+int arr4[4]];
+int arr4[4] {1, 2, 3, 4};
+in5t arr[5]; 
+int arr[5] 
+int arr2[4{}];
+int class[5]; 
+int arr11[]; 
+int arr12[5]; 
+int array[2] {1, 2};
+int array[2] {1, 2}
+int array[2] 1, 2};
+int array[2] {1, 2;
