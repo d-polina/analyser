@@ -1,5 +1,4 @@
-# analyser
-array analyser
+# array analyser
 
 third lab,
 programming, 
